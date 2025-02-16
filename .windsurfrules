@@ -1,7 +1,0 @@
-1. My system is Windows.
-2. Backend is in ExpressJS
-3. Database to be used is MongoDB
-4. Frontend is in Flutter
-5. API to be used is http://192.168.91.82:3000/api
-6. Cascade can't use terminal commands, So tell Me I would run them in VSCode
-7. Before creating a whole new file, check if there is any existing functionality change that instead.
