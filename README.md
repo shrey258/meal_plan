@@ -181,13 +181,6 @@ meal_plan/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Express.js community
-- MongoDB team
-
 ## 📫 Contact
 
-Your Name - your.email@example.com
 Project Link: [https://github.com/shrey258/meal_plan](https://github.com/shrey258/meal_plan)
